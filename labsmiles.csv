@@ -1,0 +1,31 @@
+Analytical technique,Symbol,Glassware,Symbol,Physical things,,Grammar,,Molecular classes,,Special actions,,special descriptors,,special adverbs,,Electrical components,,Light,
+mass spectrometer(ry),<|,graduated cylinder,][,light,~,act,#,surfactant,,reaction,..,empty,MT,immediately,!!!,battery,l:l,radiowave,a~
+capillary electrophoresis,=e,beaker,|_| or Ll,"directions (up, right, down, left; NESW; etc…)",^>v<,adjective,;,,,mixed,x,hygroscopic,,overnight,On,capacitor,"ll, -ll- or -ll+",microwave,u~
+gas chromatography,=g,point-bottomed vial,|v| or \/ or \| or \l,phase boundary,H,adverb,i,,,added,+,zwitterionic,,,,resistor,w,infrared,r~
+liquid chromatography,=l,volumetric flask,)_(,surface,_,thing,:,,,removed,-,-philic,+ly,,,current,I,visible,"Z~; R~,O~,Y~,G~,B~,I~,V~"
+centrifuge,/\,Earlenmeyer flask,/_\,gas,g,,,,,bombardment,>|,-phobic,-ly,,,DIAC,l><l,uv,v~
+-ESI,-<,flat bottomed vial and cover,|_|_ or Ll_,liquid,q,descriptors,{},,,evaporate,-v,,,,,diode,"l>l, or -l>l- or -Kl-",X-rays,x~
++ESI,+<,"micropipette, pipette",i,solid,s,names,"""""",,,vapour deposit,+v,,,,,LED,l>l~ or -l>~ or Kl~,gamma,y~
+DESI,\_<,96 well plate,#96,aqueous,aq,belongs to,',,,extract (LL),-% or -H,,,,,photodiode,~l>l or ~Kl,cosmic,z~
+MALDI,~_<,50 mL falcon tube with cap,|v|_{50mL},plate,|,the 5 uL vial's cap,Ll{5uL}'_,,,microextraction,-u% or -uH,,,,,photodiode array,~l>l# or ~Kl#,UV-vis,Zv~
+APPI,~-<,"small glass vial named ""Matthew5""","Ll{glass}""Matthew5""",sphere,o,,,,,,,,,,,tunnel diode,l>],NIR,rR~
+APCI,cm<,buret,-:,sample,$,,,,,,,,,,,varicap,l>ll or lKl,far UV,vv~
+FTIR,i~s,stirring stir bar,(-),light onto plate,~>|,,,,,,,,,,,Schottky diode,l>S,near UV,Vv~
+Fluorescence,F~,heat,<i,light absorbed by sample,+~$,,,,,,,,,,,Zener diode,lzl,far IR,rr~
+QQQ MS,<q3|,,,light emitted from sample detected in-line,$~>,,,,,,,,,,,transient voltage suppression,l>l<l,,
+ICP-MS,<8|,,,light emitted from sample detected at angle,$~^,,,,,,,,,,,fuse,un,,
++ESIMS,+<<|,,,grid,#,,,,,,,,,,,inductor,m,,
+"peaks, data, output, etc",.ili. or ili or .i.,,,,,,,,,,,,,,,photoresistor,~w,,
+sampling,".,.",,,electrode,"ll, l-l, l+l",,,,,,,,,,,potentiometer,w^,,
+TLC,[ ],,,plate,[],,,,,,,,,,,polarized capacitor,)| or -)|-,,
+paper chromatography,[#],,,atom,@,,,,,,,,,,,transistor,-O:,,
+AES,@~s,,,microfluidic(s),u[]l,,,,,,,,,,,transformer,3E,,
+AAS,~@s,,,plasma,,,,,,,,,,,,variable capacitor,l/l,,
+ICP-AES,8@~s,,,molecule,:,,,,,,,,,,,voltmeter,-V-,,
+etching,_-,,,ion,;,,,,,,,,,,,wattmeter,-W-,,
+reactive ion etching,+_-,,,molecular (polyatomic) ion,:;,,,,,,,,,,,ammeter,-A-,,
+ICP-RIE,8+_-,,,atomic ion,@;,,,,,,,,,,,open switch,_/_,,
+Capacitively coupled plasma,c8,,,,,,,,,,,,,,,closed switch,___,,
+inductively coupled plasma,8,,,,,,,,,,,,,,,n-channel FET,>O;,,
+Z-spray ESI,"z<, -z<, +z<",,,,,,,,,,,,,,,p-channel FET,<O;,,
+HF etching,HF_-,,,,,,,,,,,,,,,electrical supply,'.',,
