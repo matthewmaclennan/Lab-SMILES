@@ -16,5 +16,5 @@ Linux
 
 <><><><><><><><><><>
 
-A technique would be to convert the forbidden characters into another format (hex, oct) for the filename,
+A technique would be to convert the forbidden characters into another format (html, url, hex, oct) for the filename,
 then convert them back to text for methods analysis.
