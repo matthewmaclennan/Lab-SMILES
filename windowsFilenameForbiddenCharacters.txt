@@ -1,5 +1,20 @@
 Windows
 
+< (less than)
+> (greater than)
+: (colon)
+" (double quote)
+/ (forward slash)
+\ (backslash)
+| (vertical bar or pipe)
+? (question mark)
+* (asterisk)
+
 Mac
 
 Linux
+
+<><><><><><><><><><>
+
+A technique would be to convert the forbidden characters into another format (hex, oct) for the filename,
+then convert them back to text for methods analysis.
