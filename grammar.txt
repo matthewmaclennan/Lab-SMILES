@@ -1,0 +1,4 @@
+Grammar for LAB SMILES
+
+LAB SMILES grammar may become regional in that different syntaxes may be more intuitive in different countries.
+Outlined here is a single, flexible grammar.
