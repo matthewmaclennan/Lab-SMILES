@@ -7,7 +7,8 @@ electrochemical cell,≡
 light,~
 ionization,.
 desorption,/
-MALDI,=̖̃
+MALDI,=̗̃ 
+DESI,¥̗
 UV light,u
 microwave light,m
 infrared light,f
@@ -22,5 +23,5 @@ liquid chromatography,
 solid-phase extraction,
 pointed-tip vial,V
 round tip vial,U
-absorption spectroscopy,
-emission spectroscopy,
+UV absorption spectroscopy,
+UV emission spectroscopy,
