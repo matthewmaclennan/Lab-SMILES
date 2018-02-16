@@ -1,10 +1,13 @@
 name,symbol
 negative mode electrospray ionization,Y
-positive mode electrospray ionization,¥
+positive mode electrospray ionization,ұ
 mass spectrometry,╗
 fourier transform infrared spectroscopy,
 electrochemical cell,≡
-light,w
+light,~
+ionization,.
+desorption,/
+MALDI,=̖̃
 UV light,u
 microwave light,m
 infrared light,f
@@ -14,6 +17,9 @@ mid (light),
 far (light),
 radioactive,☢
 capillary electrophoresis,₠
+gas chromatography,
+liquid chromatography,
+solid-phase extraction,
 pointed-tip vial,V
 round tip vial,U
 absorption spectroscopy,
