@@ -1,5 +1,15 @@
+name,symbol
 negative mode electrospray ionization,Y
 positive mode electrospray ionization,¥
 mass spectrometry,╗
 fourier transform infrared spectroscopy,
 electrochemical cell,≡
+light,w
+UV light,u
+microwave light,m
+infrared light,f
+gamma ray,g
+near (light),&#9658;
+mid (light),
+far (light),
+
